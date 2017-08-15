@@ -31,9 +31,11 @@ You can download and extract a zip-file instead of using `git`, but is not recom
 
 ## Automated
 
+**THESE ARE NO LONGER AVAILABLE**
+
 ### NIX
 
-Download and run the installer in your shell:
+~~Download and run the installer in your shell:~~
 
 ```bash
 $ curl -sS https://www.os.js.org/installer | sh
@@ -41,7 +43,7 @@ $ curl -sS https://www.os.js.org/installer | sh
 
 ### Windows
 
-Download and run https://os.js.org/installer.exe.
+~~Download and run https://os.js.org/installer.exe.~~
 
 ---
 
